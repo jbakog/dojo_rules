@@ -7,4 +7,3 @@ Kill List
 * Bad variable names
 * Null pointers
 * Generic exception
-* Generic handler
